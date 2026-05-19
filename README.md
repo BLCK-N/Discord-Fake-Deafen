@@ -1,10 +1,9 @@
-# FakeDeafen
+# Discord Fake Deafen
 
-A Vencord plugin that lets you appear deafened to others while still being able to hear everything!
+A Vencord or equilot plugin that lets you appear deafened to others while still being able to hear everything!
 
 ![Version](https://img.shields.io/badge/version-1.0.0-5865F2?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/BlockTol/Discord-Fake-Deafen/total?style=for-the-badge&color=orange)
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9ra6MwHTHy)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NjDCcK47n4)
 
 ---
 
@@ -25,7 +24,7 @@ A Vencord plugin that lets you appear deafened to others while still being able 
 
 ## Author
 
-- Created by **Block**
-- [Discord Server](https://discord.gg/9ra6MwHTHy)
+- Created by **/＠**
+- [Discord Server](https://discord.gg/NjDCcK47n4)
 
 ---
