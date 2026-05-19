@@ -2,7 +2,6 @@
 
 A Vencord or equilot plugin that lets you appear deafened to others while still being able to hear everything!
 
-![Version](https://img.shields.io/badge/version-1.0.0-5865F2?style=for-the-badge)
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NjDCcK47n4)
 
 ---
