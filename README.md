@@ -17,7 +17,7 @@ A Vencord or equilot plugin that lets you appear deafened to others while still 
 
 ## Important Notes
 
-**Risk Warning:** Using this plugin could violate Discord's Terms of Service and may result in account suspension. Use at your own risk.
+**Risk Warning:** Using this plugin could violate Discord's Terms of Service . Use at your own risk.
 
 ---
 
