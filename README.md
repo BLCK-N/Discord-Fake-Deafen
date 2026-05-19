@@ -15,12 +15,6 @@ A Vencord or equilot plugin that lets you appear deafened to others while still 
 | **Custom Keybind** | Set any key combination to quickly toggle fake deafen |
 ---
 
-## Important Notes
-
-**Risk Warning:** Using this plugin could violate Discord's Terms of Service . Use at your own risk.
-
----
-
 ## Author
 
 - Created by **/＠**
