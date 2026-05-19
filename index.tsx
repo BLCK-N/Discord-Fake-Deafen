@@ -8,8 +8,7 @@ import { Button, Menu, React } from "@webpack/common";
 const MediaEngineActions = findByPropsLazy("toggleSelfMute");
 const SelectedChannelStore = findStoreLazy("SelectedChannelStore");
 
-const PLUGIN_VERSION = "1.0.0";
-const GITHUB_REPO = "BlockTol/Discord-Fake-Deafen";
+const GITHUB_REPO = "https://github.com/BLCK-N/Discord-Fake-Deafen";
 const UPDATE_CHECK_URL = `https://api.github.com/repos/${GITHUB_REPO}/releases/latest`;
 const GITHUB_RELEASE_URL = `https://github.com/${GITHUB_REPO}/releases/latest`;
 const UPDATE_CHECK_ENABLED = true;
@@ -379,7 +378,7 @@ function handleKeyDown(e: KeyboardEvent) {
 export default definePlugin({
     name: "FakeDeafen",
     description: "Fake your deafen status to others.",
-    authors: [{ id: 1449096170646536233n, name: "Block" }],
+    authors: [{ id: 408638611412615170n, name: ".0.v1" }],
     settings,
 
     patches: [
