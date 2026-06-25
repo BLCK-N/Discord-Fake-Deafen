@@ -18,6 +18,6 @@ A Vencord or equilot plugin that lets you appear deafened to others while still 
 ## Author
 
 - Created by **/＠**
-- [Discord Server](https://discord.gg/NjDCcK47n4)
+- [Discord Server](https://discord.gg/MCzrs4sTMW)
 
 ---
